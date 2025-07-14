@@ -11,6 +11,6 @@ During the evenings and weekends, I study mobile applications like Android/Kotli
 
 📫 How to reach me
 
-Email is best. Please, no spam. Please contact me only for open-source, freelance and job opportunities.
+Email is best. Please, no spam. Please contact me only for open-source, freelance and/or job opportunities.
 
 jhonatansantanati@gmail.com
