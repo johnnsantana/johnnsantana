@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**johnnsantana/johnnsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there
 
-Here are some ideas to get you started:
+I'm John. a Programmer, Mobile Enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's really nice to meet you.
+
+🔭 I'm currently working on as Freelancer Mobile Engineer
+
+During the evenings and weekends, I study mobile applications like Android/Kotlin/KMP, iOS/Swift/SwiftUI, and Bash Scripts. I'm open to contributing to open source projects.
+
+📫 How to reach me
+
+Email is best. Please, no spam. Please contact me only for open-source, freelance and job opportunities.
+
+jhonatansantanati@gmail.com
